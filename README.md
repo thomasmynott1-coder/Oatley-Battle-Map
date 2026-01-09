@@ -2,7 +2,6 @@
 
 
 
-
 # Oatley Campaign Battle Map
 
 Operational battle map for the Oatley electorate campaign. Provides layer management, point tracking (door knocks, letterbox drops), and route planning with PDF export.
