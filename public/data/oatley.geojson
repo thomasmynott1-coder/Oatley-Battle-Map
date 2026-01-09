@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oatley Electorate"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            151.05,
+                            -33.95
+                        ],
+                        [
+                            151.10,
+                            -33.95
+                        ],
+                        [
+                            151.10,
+                            -34.00
+                        ],
+                        [
+                            151.05,
+                            -34.00
+                        ],
+                        [
+                            151.05,
+                            -33.95
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
