@@ -16,7 +16,7 @@ const OATLEY_BOUNDS = {
     east: 151.100
 };
 
-export function MapComponent({ className }: MapComponentProps) {
+export function MapComponent({ className, children }: MapComponentProps) {
     const map = useMap();
     const { isLayerVisible } = useLayers();
     const showBoundary = isLayerVisible('boundary');
